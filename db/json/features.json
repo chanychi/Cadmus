@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "product_id": 1,
+    "feature": "Fabric",
+    "value": "Canvas"
+  },
+  {
+    "id": 2,
+    "product_id": 1,
+    "feature": "Buttons",
+    "value": "Brass"
+  },
+  {
+    "id": 3,
+    "product_id": 2,
+    "feature": "Lenses",
+    "value": "Ultrasheen"
+  },
+  {
+    "id": 4,
+    "product_id": 2,
+    "feature": "UV Protection",
+    "value": "null"
+  },
+  {
+    "id": 5,
+    "product_id": 2,
+    "feature": "Frames",
+    "value": "LightCompose"
+  },
+  {
+    "id": 6,
+    "product_id": 3,
+    "feature": "Fabric",
+    "value": "100% Cotton"
+  },
+  {
+    "id": 7,
+    "product_id": 3,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 8,
+    "product_id": 4,
+    "feature": "Fabric",
+    "value": "99% Cotton 1% Elastic"
+  },
+  {
+    "id": 9,
+    "product_id": 4,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 10,
+    "product_id": 5,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 11,
+    "product_id": 5,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 12,
+    "product_id": 5,
+    "feature": "Mid-Sole",
+    "value": "ControlSupport Arch Bridge"
+  },
+  {
+    "id": 13,
+    "product_id": 5,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 14,
+    "product_id": 6,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 15,
+    "product_id": 6,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 16,
+    "product_id": 6,
+    "feature": "Mid-Sole",
+    "value": "ControlSupport Arch Bridge"
+  },
+  {
+    "id": 17,
+    "product_id": 6,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 18,
+    "product_id": 7,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 19,
+    "product_id": 7,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 20,
+    "product_id": 7,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 21,
+    "product_id": 8,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 22,
+    "product_id": 8,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 23,
+    "product_id": 8,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 24,
+    "product_id": 9,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 25,
+    "product_id": 9,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 26,
+    "product_id": 9,
+    "feature": "Mid-Sole",
+    "value": "ControlSupport Arch Bridge"
+  },
+  {
+    "id": 27,
+    "product_id": 9,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 28,
+    "product_id": 11,
+    "feature": "Sole",
+    "value": "Rubber"
+  },
+  {
+    "id": 29,
+    "product_id": 11,
+    "feature": "Material",
+    "value": "FullControlSkin"
+  },
+  {
+    "id": 30,
+    "product_id": 11,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 31,
+    "product_id": 12,
+    "feature": "Frame",
+    "value": "AllLight Composition Resin"
+  },
+  {
+    "id": 32,
+    "product_id": 13,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 33,
+    "product_id": 13,
+    "feature": "Lens",
+    "value": "Ultrasheen Basic"
+  },
+  {
+    "id": 34,
+    "product_id": 13,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 35,
+    "product_id": 14,
+    "feature": "Fabric",
+    "value": "Cashmere"
+  },
+  {
+    "id": 36,
+    "product_id": 15,
+    "feature": "Buttons",
+    "value": "White Resin"
+  },
+  {
+    "id": 37,
+    "product_id": 16,
+    "feature": "Stitching",
+    "value": "Cross Stitch"
+  },
+  {
+    "id": 38,
+    "product_id": 17,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 39,
+    "product_id": 17,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 40,
+    "product_id": 17,
+    "feature": "Fabric",
+    "value": "95% Cotton, 5% Elastic"
+  },
+  {
+    "id": 41,
+    "product_id": 17,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 42,
+    "product_id": 18,
+    "feature": "Lens",
+    "value": "100% UV Protective"
+  },
+  {
+    "id": 43,
+    "product_id": 18,
+    "feature": "Fair Trade Certified",
+    "value": "null"
+  },
+  {
+    "id": 44,
+    "product_id": 19,
+    "feature": "Stitching",
+    "value": "Cross Stitch"
+  },
+  {
+    "id": 45,
+    "product_id": 19,
+    "feature": "5 Year Warranty",
+    "value": "null"
+  },
+  {
+    "id": 46,
+    "product_id": 20,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 47,
+    "product_id": 20,
+    "feature": "5 Year Warranty",
+    "value": "null"
+  },
+  {
+    "id": 48,
+    "product_id": 21,
+    "feature": "Material",
+    "value": "FullSupport Hybrid Compound"
+  },
+  {
+    "id": 49,
+    "product_id": 21,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 50,
+    "product_id": 22,
+    "feature": "Lens",
+    "value": "Ultrasheen Gold"
+  },
+  {
+    "id": 51,
+    "product_id": 22,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 52,
+    "product_id": 23,
+    "feature": "5 Year Warranty",
+    "value": "null"
+  },
+  {
+    "id": 53,
+    "product_id": 23,
+    "feature": "Fair Trade Certified",
+    "value": "null"
+  },
+  {
+    "id": 54,
+    "product_id": 24,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 55,
+    "product_id": 25,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 56,
+    "product_id": 25,
+    "feature": "Stitching",
+    "value": "Cross Stitch"
+  },
+  {
+    "id": 57,
+    "product_id": 26,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 58,
+    "product_id": 27,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 59,
+    "product_id": 28,
+    "feature": "Stitching",
+    "value": "Double Stitch"
+  },
+  {
+    "id": 60,
+    "product_id": 28,
+    "feature": "Satisfaction Guaranteed",
+    "value": "null"
+  },
+  {
+    "id": 61,
+    "product_id": 28,
+    "feature": "Frame",
+    "value": "AllLight Composition Resin"
+  },
+  {
+    "id": 62,
+    "product_id": 29,
+    "feature": "Fair Trade Certified",
+    "value": "null"
+  },
+  {
+    "id": 63,
+    "product_id": 29,
+    "feature": "Satisfaction Guaranteed",
+    "value": "null"
+  },
+  {
+    "id": 64,
+    "product_id": 30,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 65,
+    "product_id": 30,
+    "feature": "Frame",
+    "value": "DuraResin"
+  },
+  {
+    "id": 66,
+    "product_id": 30,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 67,
+    "product_id": 31,
+    "feature": "Fabric",
+    "value": "Wool"
+  },
+  {
+    "id": 68,
+    "product_id": 31,
+    "feature": "Fair Trade Certified",
+    "value": "null"
+  },
+  {
+    "id": 69,
+    "product_id": 32,
+    "feature": "Lens",
+    "value": "Ultrasheen Gold"
+  },
+  {
+    "id": 70,
+    "product_id": 33,
+    "feature": "Stitching",
+    "value": "Cross Stitch"
+  },
+  {
+    "id": 71,
+    "product_id": 33,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 72,
+    "product_id": 34,
+    "feature": "Cut",
+    "value": "Striaght"
+  },
+  {
+    "id": 73,
+    "product_id": 34,
+    "feature": "Sustainably Sourced",
+    "value": "null"
+  },
+  {
+    "id": 74,
+    "product_id": 35,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 75,
+    "product_id": 35,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 76,
+    "product_id": 35,
+    "feature": "Satisfaction Guaranteed",
+    "value": "null"
+  },
+  {
+    "id": 77,
+    "product_id": 36,
+    "feature": "Lens",
+    "value": "Ultrasheen Gold"
+  },
+  {
+    "id": 78,
+    "product_id": 36,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 79,
+    "product_id": 36,
+    "feature": "5 Year Warranty",
+    "value": "null"
+  },
+  {
+    "id": 80,
+    "product_id": 37,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 81,
+    "product_id": 37,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 82,
+    "product_id": 37,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 83,
+    "product_id": 38,
+    "feature": "Fabric",
+    "value": "Wool"
+  },
+  {
+    "id": 84,
+    "product_id": 38,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 85,
+    "product_id": 39,
+    "feature": "Sustainably Sourced",
+    "value": "null"
+  },
+  {
+    "id": 86,
+    "product_id": 39,
+    "feature": "Cut",
+    "value": "Loose"
+  },
+  {
+    "id": 87,
+    "product_id": 40,
+    "feature": "Sustainably Sourced",
+    "value": "null"
+  },
+  {
+    "id": 88,
+    "product_id": 40,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 89,
+    "product_id": 41,
+    "feature": "5 Year Warranty",
+    "value": "null"
+  },
+  {
+    "id": 90,
+    "product_id": 41,
+    "feature": "Cut",
+    "value": "Striaght"
+  },
+  {
+    "id": 91,
+    "product_id": 41,
+    "feature": "Fair Trade Certified",
+    "value": "null"
+  },
+  {
+    "id": 92,
+    "product_id": 42,
+    "feature": "Frame",
+    "value": "DuraResin"
+  },
+  {
+    "id": 93,
+    "product_id": 42,
+    "feature": "Cut",
+    "value": "Skinny"
+  },
+  {
+    "id": 94,
+    "product_id": 43,
+    "feature": "Frame",
+    "value": "DuraResin"
+  },
+  {
+    "id": 95,
+    "product_id": 43,
+    "feature": "Satisfaction Guaranteed",
+    "value": "null"
+  },
+  {
+    "id": 96,
+    "product_id": 43,
+    "feature": "Non-GMO",
+    "value": "null"
+  },
+  {
+    "id": 97,
+    "product_id": 44,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 98,
+    "product_id": 44,
+    "feature": "Fabric",
+    "value": "Cool Fit"
+  },
+  {
+    "id": 99,
+    "product_id": 45,
+    "feature": "Fabric",
+    "value": "Canvas"
+  },
+  {
+    "id": 100,
+    "product_id": 46,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 101,
+    "product_id": 47,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 102,
+    "product_id": 47,
+    "feature": "Satisfaction Guaranteed",
+    "value": "null"
+  },
+  {
+    "id": 103,
+    "product_id": 48,
+    "feature": "Lifetime Guarantee",
+    "value": "null"
+  },
+  {
+    "id": 104,
+    "product_id": 49,
+    "feature": "Frame",
+    "value": "AllLight Composition Resin"
+  },
+  {
+    "id": 105,
+    "product_id": 50,
+    "feature": "Green Leaf Certified",
+    "value": "null"
+  },
+  {
+    "id": 106,
+    "product_id": 50,
+    "feature": "Fabric",
+    "value": "80% Cotton, 20% Polyester"
+  }
+]

@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Camo Onesie",
+    "slogan": "Blend in to your crowd",
+    "description": "The So Fatigues will wake you up and fit you in. This high energy camo will have you blending in to even the wildest surroundings.",
+    "category": "Jackets",
+    "default_price": 140
+  },
+  {
+    "id": 2,
+    "name": "Bright Future Sunglasses",
+    "slogan": "You've got to wear shades",
+    "description": "Where you're going you might not need roads, but you definitely need some shades. Give those baby blues a rest and let the future shine bright on these timeless lenses.",
+    "category": "Accessories",
+    "default_price": 69
+  },
+  {
+    "id": 3,
+    "name": "Morning Joggers",
+    "slogan": "Make yourself a morning person",
+    "description": "Whether you're a morning person or not.  Whether you're gym bound or not.  Everyone looks good in joggers.",
+    "category": "Pants",
+    "default_price": 40
+  },
+  {
+    "id": 4,
+    "name": "Slacker's Slacks",
+    "slogan": "Comfortable for everything, or nothing",
+    "description": "I'll tell you how great they are after I nap for a bit.",
+    "category": "Pants",
+    "default_price": 65
+  },
+  {
+    "id": 5,
+    "name": "Heir Force Ones",
+    "slogan": "A sneaker dynasty",
+    "description": "Now where da boxes where I keep mine? You should peep mine, maybe once or twice but never three times. I'm just a sneaker pro, I love Pumas and shell toes, but can't nothin compare to a fresh crispy white pearl",
+    "category": "Kicks",
+    "default_price": 99
+  },
+  {
+    "id": 6,
+    "name": "Pumped Up Kicks",
+    "slogan": "Faster than a just about anything",
+    "description": "The Pumped Up serves up crisp court style with a modern look. These shoes show off tennis-whites shades and are constructed with a supple leather upper and a classic rubber cupsole.",
+    "category": "Kicks",
+    "default_price": 89
+  },
+  {
+    "id": 7,
+    "name": "Blues Suede Shoes",
+    "slogan": "2019 Stanley Cup Limited Edition",
+    "description": "Touch down in the land of the Delta Blues in the middle of the pouring rain",
+    "category": "Dress Shoes",
+    "default_price": 120
+  },
+  {
+    "id": 8,
+    "name": "YEasy 350",
+    "slogan": "Just jumped over jumpman",
+    "description": "These stretchy knit shoes show off asymmetrical lacing and a big sculpted rubber midsole. In a nod to adidas soccer heritage.",
+    "category": "Kicks",
+    "default_price": 450
+  },
+  {
+    "id": 9,
+    "name": "Summer Shoes",
+    "slogan": "A risky call in the spring or fall",
+    "description": "Low-top panelled buffed leather and mesh sneakers. Sizing embroidered in black at round toe. Tonal lace-up closure. Pull-loop and rubberized style name at padded tongue. Padded collar. Pull-loop at heel collar. Logo embroidered in black at outer side. Tonal treaded rubber sole. Tonal stitching.",
+    "category": "Kicks",
+    "default_price": 59
+  },
+  {
+    "id": 10,
+    "name": "Infinity Stone",
+    "slogan": "Reality is often disappointing. That is, it was. Now, reality can be whatever I want.",
+    "description": "The Infinity Stones are six immensely powerful stone-like objects tied to different aspects of the universe, created by the Cosmic Entities. Each of the stones possesses unique capabilities that have been enhanced and altered by various alien civilizations for millennia.",
+    "category": "Accessories",
+    "default_price": 5000000
+  },
+  {
+    "id": 11,
+    "name": "Air Minis 250",
+    "slogan": "Full court support",
+    "description": "This optimized air cushion pocket reduces impact but keeps a perfect balance underfoot.",
+    "category": "Basketball Shoes",
+    "default_price": 49
+  },
+  {
+    "id": 12,
+    "name": "Belle Shirt",
+    "slogan": "Debitis eos est provident ducimus similique saepe quo eos.",
+    "description": "Qui nesciunt nesciunt consequuntur. Quia ut incidunt et quam sit rerum tempora. Placeat ipsa facere corporis et et quia repudiandae consequatur consequatur. Temporibus quae sapiente quae sed. Quisquam consequatur soluta.",
+    "category": "Shirt",
+    "default_price": 570
+  },
+  {
+    "id": 13,
+    "name": "Heber Trousers",
+    "slogan": "Voluptates rerum distinctio sit perspiciatis.",
+    "description": "Aut quia ipsam aspernatur molestiae voluptatem. Eum esse sit et vero nostrum voluptatem voluptas nostrum pariatur. Deleniti et alias et. Necessitatibus molestiae enim. Odit maiores maxime suscipit nemo eaque.",
+    "category": "Trousers",
+    "default_price": 130
+  },
+  {
+    "id": 14,
+    "name": "Jaeden Suit",
+    "slogan": "Velit officia qui sint ut quis sit asperiores similique.",
+    "description": "Asperiores repellat et est. Dolores possimus quisquam laboriosam omnis sequi saepe. Cupiditate officia consequatur eum ipsam saepe ut. Hic fuga magnam et deserunt voluptate consequuntur.",
+    "category": "Suit",
+    "default_price": 556
+  },
+  {
+    "id": 15,
+    "name": "Jerrod Romper",
+    "slogan": "Laborum a ut similique et perferendis qui nobis ipsa.",
+    "description": "Exercitationem fugiat illum eos laudantium beatae tempore quod quaerat. Sequi itaque reprehenderit mollitia. Enim beatae occaecati qui culpa eaque commodi natus enim tempora. Vitae minus voluptas dolor molestias rerum quos.",
+    "category": "Romper",
+    "default_price": 904
+  },
+  {
+    "id": 16,
+    "name": "Alexane Sweatpants",
+    "slogan": "Rem esse blanditiis aperiam.",
+    "description": "Quae quia odio beatae hic magni. Consequatur ea ipsam eos voluptatem. Ipsum est dolorem consequuntur dolor odio consequatur maiores. Cumque aut dolore nulla fugit id et sapiente sunt in. Laborum natus numquam nam blanditiis recusandae.",
+    "category": "Sweatpants",
+    "default_price": 888
+  },
+  {
+    "id": 17,
+    "name": "Bartholome Tank Top",
+    "slogan": "Ratione non ullam aut perspiciatis enim.",
+    "description": "Assumenda inventore incidunt odit architecto. Vel quo voluptatibus ut occaecati aut nihil excepturi ratione. Ad rem a quaerat ut.",
+    "category": "Tank Top",
+    "default_price": 398
+  },
+  {
+    "id": 18,
+    "name": "Oliver 0 Shorts",
+    "slogan": "Provident amet aut voluptates consequatur ipsam.",
+    "description": "Magni veritatis sed asperiores impedit. Dolorem ratione quam autem beatae. Voluptates fugiat rerum impedit aut sed magni. Vel molestiae dignissimos aperiam. Est quae ut quas qui voluptas nihil rem beatae quod.",
+    "category": "Shorts",
+    "default_price": 119
+  },
+  {
+    "id": 19,
+    "name": "Eloisa Suit",
+    "slogan": "Asperiores a consequatur culpa id excepturi vitae enim.",
+    "description": "Quas velit officiis. Accusamus soluta nesciunt ducimus et dolor ipsam assumenda exercitationem. Error ullam et sit debitis eum adipisci fugiat ducimus quaerat.",
+    "category": "Suit",
+    "default_price": 573
+  },
+  {
+    "id": 20,
+    "name": "Matilda Jacket",
+    "slogan": "Quidem doloribus iusto omnis ducimus.",
+    "description": "Omnis molestias sed ut officia eos labore nulla dolor voluptatem. Repudiandae praesentium culpa. Adipisci sint assumenda earum ex est. Fugiat sint molestiae. Ea laborum aperiam iure.",
+    "category": "Jacket",
+    "default_price": 950
+  },
+  {
+    "id": 21,
+    "name": "Verdie Heels",
+    "slogan": "Qui nobis aliquid.",
+    "description": "Aut non earum excepturi sit. Facilis architecto voluptatem possimus consequatur eos iusto voluptatem. Praesentium cupiditate error. Inventore dolores quidem quisquam sit in tenetur et. Alias accusantium velit aut nam consequatur similique dolore minus.",
+    "category": "Heels",
+    "default_price": 390
+  },
+  {
+    "id": 22,
+    "name": "Marlen Backpack",
+    "slogan": "Ipsa assumenda aspernatur modi asperiores.",
+    "description": "Voluptates velit sit ratione molestias. Blanditiis porro necessitatibus quibusdam qui. Quia sint vel autem et voluptates. Porro cumque molestiae saepe non. Aspernatur commodi voluptatum.",
+    "category": "Backpack",
+    "default_price": 818
+  },
+  {
+    "id": 23,
+    "name": "The Carolina Boots",
+    "slogan": "Vero totam aut voluptates.",
+    "description": "Eaque sequi sint saepe nemo alias rem vel laudantium pariatur. Quidem placeat dolorem cumque quidem. Dicta quibusdam quis est. Quam ut sed esse et labore qui. Tempore velit et minima dolorem quia.",
+    "category": "Boots",
+    "default_price": 123
+  },
+  {
+    "id": 24,
+    "name": "Adolfo Suit",
+    "slogan": "Ipsum ut doloribus ex cumque aut impedit est.",
+    "description": "Laborum tenetur veniam debitis sunt est minus minus voluptates voluptatem. Earum amet non tenetur tempora dolores. Eos atque quia consequatur. Voluptates neque praesentium quia minus ad dolor rem.",
+    "category": "Suit",
+    "default_price": 648
+  },
+  {
+    "id": 25,
+    "name": "Kellen Heels",
+    "slogan": "Quis quia dolore.",
+    "description": "Optio atque et placeat. Nihil impedit et totam. Exercitationem provident officia totam enim accusantium quisquam quia quo. Saepe aliquid nam a consequuntur et sint veniam.",
+    "category": "Heels",
+    "default_price": 692
+  },
+  {
+    "id": 26,
+    "name": "Ruthe Jacket",
+    "slogan": "Qui adipisci earum corrupti quis blanditiis rerum.",
+    "description": "Culpa deserunt esse est illum consequuntur dolorum. Consequatur doloremque consectetur veritatis quaerat veniam adipisci rerum. Voluptatem perferendis dolores vel possimus voluptatem explicabo. Cum mollitia debitis vero tenetur repudiandae porro at. Ut in aut ut ducimus aspernatur dolorem nesciunt sit inventore. Qui dolores enim praesentium omnis ut explicabo et sunt laboriosam.",
+    "category": "Jacket",
+    "default_price": 669
+  },
+  {
+    "id": 27,
+    "name": "Cale Skirt",
+    "slogan": "Reprehenderit ex qui dolorum consequatur.",
+    "description": "Rerum veritatis repudiandae ea architecto. Laboriosam ut eligendi architecto voluptatem. Aut a similique quia praesentium sunt est animi. Veniam cum consectetur maxime mollitia impedit qui. Rerum atque occaecati magnam veniam voluptate voluptatum rem reiciendis sunt.",
+    "category": "Skirt",
+    "default_price": 922
+  },
+  {
+    "id": 28,
+    "name": "Lindsey Heels",
+    "slogan": "Harum tenetur id repudiandae placeat et sed officiis quia aut.",
+    "description": "Rerum est maiores sit. Illum similique sequi vitae. Ipsum nihil animi neque consequatur nesciunt autem. Suscipit deserunt hic enim molestias id ipsam. Et ut est ab et officia omnis eaque modi impedit. Voluptatibus cumque qui omnis odio repellendus.",
+    "category": "Heels",
+    "default_price": 557
+  },
+  {
+    "id": 29,
+    "name": "Weston Shirt",
+    "slogan": "Tempora aut ullam nihil sed necessitatibus ex.",
+    "description": "Nemo suscipit enim accusantium est corrupti. Porro consequatur harum sint non hic et asperiores. Omnis sint ut numquam blanditiis possimus aut. Possimus et ratione vitae saepe magni. Aut dignissimos asperiores et quidem et vitae culpa. Culpa veniam ratione id id sed.",
+    "category": "Shirt",
+    "default_price": 683
+  },
+  {
+    "id": 30,
+    "name": "Mathew Jacket",
+    "slogan": "Odit a maxime.",
+    "description": "Ex dolorem dicta deserunt mollitia dolore eaque. Sapiente dolores consectetur magni. Accusamus explicabo sequi accusantium aut eligendi. Ducimus iste ut laudantium rerum corporis ut. Maiores facere dolor vitae et aut dignissimos.",
+    "category": "Jacket",
+    "default_price": 191
+  },
+  {
+    "id": 31,
+    "name": "Khalid Dress",
+    "slogan": "Ducimus debitis eos aut aut.",
+    "description": "Quae velit consequatur. Voluptatem consequatur optio nulla occaecati et rerum sunt qui debitis. Voluptatum ea neque excepturi. Fuga esse nesciunt excepturi sit repellat autem. Est enim harum minima quia.",
+    "category": "Dress",
+    "default_price": 954
+  },
+  {
+    "id": 32,
+    "name": "Jaiden Shorts",
+    "slogan": "Quia velit consectetur exercitationem id.",
+    "description": "Ea suscipit aut non. Enim in nihil aut fuga quos. Accusamus ad quasi magni molestiae itaque inventore voluptas. Officiis rem eligendi nihil itaque suscipit doloribus consequatur aut ut.",
+    "category": "Shorts",
+    "default_price": 263
+  },
+  {
+    "id": 33,
+    "name": "Don Sunglasses",
+    "slogan": "Officiis adipisci quo doloribus explicabo fugit dolor dolorem et veniam.",
+    "description": "Nesciunt nulla cum nihil earum veniam et soluta laboriosam et. Vitae doloremque rerum qui iure. Doloribus et dolor sit qui consequuntur eveniet eum. Nulla eius sit. Reiciendis tempora et.",
+    "category": "Sunglasses",
+    "default_price": 841
+  },
+  {
+    "id": 34,
+    "name": "Marcellus Jacket",
+    "slogan": "Similique autem doloremque enim.",
+    "description": "Dolor illum rerum voluptatibus repellat earum in suscipit saepe. Reiciendis qui quae. Aliquid enim suscipit dolor commodi. Illo debitis nihil. Temporibus voluptatem neque et incidunt exercitationem.",
+    "category": "Jacket",
+    "default_price": 465
+  },
+  {
+    "id": 35,
+    "name": "Norval Coat",
+    "slogan": "Repellendus asperiores sed.",
+    "description": "Sunt eos perferendis pariatur sunt qui. Voluptatem rem aut aperiam necessitatibus debitis modi fugiat. Qui est nam et hic incidunt quam architecto.",
+    "category": "Coat",
+    "default_price": 256
+  },
+  {
+    "id": 36,
+    "name": "Esperanza Socks",
+    "slogan": "Inventore quam fugit libero natus quia.",
+    "description": "Vel minus et quia eum magni sed. Explicabo doloribus quis. Sequi sequi non iure et iste fugit architecto. Quidem aspernatur quia omnis itaque quo aut qui quam autem.",
+    "category": "Socks",
+    "default_price": 437
+  },
+  {
+    "id": 37,
+    "name": "Maximillia Coat",
+    "slogan": "Temporibus voluptatem facilis corrupti quo iusto aut vero et.",
+    "description": "Culpa porro ipsam libero ut est nisi ut dolorem. Officiis sunt sit eveniet ducimus voluptates. Quo et corrupti fugit rerum rerum laudantium quo.",
+    "category": "Coat",
+    "default_price": 12
+  },
+  {
+    "id": 38,
+    "name": "Jarod Coat",
+    "slogan": "Consectetur dolores minus aut distinctio et laudantium.",
+    "description": "Et unde sit deleniti est. Voluptatem dolor ea sit ex. Totam accusantium ex quis sunt ea vitae recusandae quisquam sit. Ut qui qui reiciendis cumque. Architecto rerum culpa ea libero laborum qui pariatur.",
+    "category": "Coat",
+    "default_price": 697
+  },
+  {
+    "id": 39,
+    "name": "Kenton Dress",
+    "slogan": "Et aperiam itaque dolorem ut asperiores odio ut.",
+    "description": "Et asperiores enim sequi neque culpa. Quidem autem sunt assumenda autem quas. Vero et libero sunt magni et iste non. Saepe aut alias.",
+    "category": "Dress",
+    "default_price": 636
+  },
+  {
+    "id": 40,
+    "name": "Karl Coat",
+    "slogan": "Fuga deserunt ea amet distinctio numquam dolorem.",
+    "description": "Dolorem omnis consequatur qui incidunt atque quo odio corrupti. Porro facere magni laudantium sint accusantium et iste consequatur. Magnam voluptatem consequatur voluptates accusantium modi. Ad a qui perspiciatis. Aperiam consequuntur quia suscipit.",
+    "category": "Coat",
+    "default_price": 556
+  },
+  {
+    "id": 41,
+    "name": "Tyrel Shorts",
+    "slogan": "Ea qui quis quia omnis doloribus.",
+    "description": "Cupiditate autem voluptatem corporis aut sit incidunt veritatis velit. Unde quis numquam qui voluptates distinctio porro sunt tempore. Rerum in consequatur nesciunt voluptatem amet totam delectus rerum.",
+    "category": "Shorts",
+    "default_price": 653
+  },
+  {
+    "id": 42,
+    "name": "Vidal Tank Top",
+    "slogan": "Impedit laboriosam eum.",
+    "description": "Saepe expedita omnis. Est iure nulla dolorem excepturi sequi illo. Consequatur eveniet consequatur sunt incidunt possimus autem aspernatur. Officiis quas tenetur ut est. Perferendis molestiae optio aliquid.",
+    "category": "Tank Top",
+    "default_price": 603
+  },
+  {
+    "id": 43,
+    "name": "Annamae Boots",
+    "slogan": "Illum molestias sed beatae nisi.",
+    "description": "Beatae modi quo. Ratione illum molestias omnis corporis ut quae voluptatem. Doloribus dicta alias dolores quas minus.",
+    "category": "Boots",
+    "default_price": 286
+  },
+  {
+    "id": 44,
+    "name": "Sabrina 0 Skirt",
+    "slogan": "Sunt distinctio ut qui cumque omnis.",
+    "description": "Hic nam rerum veniam. Non expedita autem aut. Expedita et nostrum iste quia accusantium quia in consequatur. Consequatur consequatur dolore repellat sed esse est numquam natus. Quas est delectus et et ex aut. Sed sunt quos et quod ipsa.",
+    "category": "Skirt",
+    "default_price": 681
+  },
+  {
+    "id": 45,
+    "name": "Muriel Pants",
+    "slogan": "Reprehenderit ab non eaque et vel.",
+    "description": "Porro eum adipisci et soluta velit consequatur unde. Dolor repudiandae non fugiat est. Culpa modi quia non illo et voluptatem aut laboriosam explicabo.",
+    "category": "Pants",
+    "default_price": 793
+  },
+  {
+    "id": 46,
+    "name": "Joesph Skirt",
+    "slogan": "Nihil eum veniam ex velit dolores modi.",
+    "description": "Delectus excepturi voluptas impedit sunt eius aut hic. Nulla rem sequi ut quisquam eaque sunt. Pariatur in ducimus facilis perferendis est eos. Nostrum tempore iste laborum consequatur et ullam enim. Nobis ab quasi. Est minima aut laudantium quia voluptas quia harum eius dolores.",
+    "category": "Skirt",
+    "default_price": 858
+  },
+  {
+    "id": 47,
+    "name": "Nathan Pants",
+    "slogan": "Repellendus voluptates est alias dolorum.",
+    "description": "Corrupti magni aliquid similique magni molestiae perferendis sed eius. Doloremque sapiente at in. Molestiae minima nam placeat.",
+    "category": "Pants",
+    "default_price": 219
+  },
+  {
+    "id": 48,
+    "name": "Moshe Romper",
+    "slogan": "Magnam reiciendis consectetur voluptas beatae cupiditate rerum et fugit autem.",
+    "description": "Ullam enim impedit sit dignissimos. Ut distinctio laborum voluptatibus architecto consequatur. Et similique ex et fuga minima molestiae aut.",
+    "category": "Romper",
+    "default_price": 820
+  },
+  {
+    "id": 49,
+    "name": "Destinee Tank Top",
+    "slogan": "Quo in nemo totam corporis et iste quidem quisquam qui.",
+    "description": "Quis quasi error harum est enim magnam ex. Quaerat eum fugiat repellendus. Quos reprehenderit et rerum ut quia explicabo tempore. Voluptas sint qui sed atque dolorem. Error a repellat maiores quia delectus aliquid voluptatibus voluptas adipisci.",
+    "category": "Tank Top",
+    "default_price": 874
+  },
+  {
+    "id": 50,
+    "name": "Drake Trousers",
+    "slogan": "Aut et ipsum ullam aliquam doloremque.",
+    "description": "Molestias rerum saepe vitae. Unde quas reiciendis. Nobis rerum cupiditate aliquam.",
+    "category": "Trousers",
+    "default_price": 950
+  }
+]

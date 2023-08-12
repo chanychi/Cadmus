@@ -1,0 +1,58 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Product {
+  id            Int       @id @default(autoincrement())
+  name          String
+  slogan        String?
+  description   String?
+  category      String?
+  default_price Int?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @default(now())
+  features      Feature[]
+  styles        Style[]
+  relatedList   Related[]
+}
+
+model Feature {
+  id            Int      @id @default(autoincrement())
+  feature       String
+  value         String?
+  product       Product  @relation(fields: [product_id], references: [id], onDelete: Cascade)
+  product_id    Int
+}
+
+model Style {
+  id              Int      @id @default(autoincrement())
+  productId       Int
+  name            String
+  sale_price      String?
+  original_price  Int
+  default_style   Int
+  product         Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  photos          Photo[]
+  skus            Sku[]
+}
+
+model Photo {
+  id                 Int       @id @default(autoincrement())
+  styleId            Int
+  url                String
+  thumbnail_url      String
+  style              Style  @relation(fields: [styleId], references: [id], onDelete: Cascade)
+}
+
+model Sku {
+  id            Int       @id @default(autoincrement())
+  styleId       Int
+  size          String
+  quantity      Int
+  style         Style  @relation(fields: [styleId], references: [id], onDelete: Cascade)
+}
