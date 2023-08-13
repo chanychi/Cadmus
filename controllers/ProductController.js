@@ -70,7 +70,7 @@ class ProductRequest {
 
     const result = {
       product_id: productId,
-      result: await Promise.all(productStyles.map(async style => ({
+      results: await Promise.all(productStyles.map(async style => ({
         style_id: style.id,
         name: style.name,
         original_price: style.original_price.toFixed(2),

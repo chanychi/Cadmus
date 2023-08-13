@@ -18,7 +18,8 @@ model Product {
   updatedAt     DateTime  @default(now())
   features      Feature[]
   styles        Style[]
-  relatedList   Related[]
+
+  @@index(id)
 }
 
 model Feature {
@@ -27,6 +28,8 @@ model Feature {
   value         String?
   product       Product  @relation(fields: [product_id], references: [id], onDelete: Cascade)
   product_id    Int
+
+  @@index(product_id)
 }
 
 model Style {
@@ -39,6 +42,8 @@ model Style {
   product         Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
   photos          Photo[]
   skus            Sku[]
+
+  @@index(productId)
 }
 
 model Photo {
@@ -47,6 +52,8 @@ model Photo {
   url                String
   thumbnail_url      String
   style              Style  @relation(fields: [styleId], references: [id], onDelete: Cascade)
+
+  @@index(styleId)
 }
 
 model Sku {
@@ -55,4 +62,6 @@ model Sku {
   size          String
   quantity      Int
   style         Style  @relation(fields: [styleId], references: [id], onDelete: Cascade)
+
+  @@index(styleId)
 }
